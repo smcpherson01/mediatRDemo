@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/1QovHJfQoWC4uo6hKk2a3wSXJBhmC3CrJ6aVaO4280qRv9JdsiCiymDE/1ylsl/5ic37LUgAzii1h8Vzxp9mA==",
+  "success": true,
+  "projectFilePath": "C:\\Sandbox\\MediatRDemo\\MediatRDemo\\DemoLibrary\\DemoLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
